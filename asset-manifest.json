@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/netflix-clown/static/css/main.056aaffe.css",
+    "main.js": "/netflix-clown/static/js/main.30adea4a.js",
+    "static/media/logo.png": "/netflix-clown/static/media/logo.5b38a2c389cdb4565fc2.png",
+    "index.html": "/netflix-clown/index.html",
+    "main.056aaffe.css.map": "/netflix-clown/static/css/main.056aaffe.css.map",
+    "main.30adea4a.js.map": "/netflix-clown/static/js/main.30adea4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.056aaffe.css",
+    "static/js/main.30adea4a.js"
+  ]
+}
